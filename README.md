@@ -1,5 +1,9 @@
 # GemDo
 
+> **This project is retired.** GemDo, earlier called POM, was never
+> released under this name and no longer runs. The code remains here
+> for reference.
+
 (c) 2009 Rubyworks (BSD-2-Clause License)
 
 [Homepage](http://rubyworks.github.com/gemdo) /
